@@ -38,24 +38,27 @@
 
 ---
 
-## Часть II. Структура продукта
+## Часть II. Архитектура продукта
 
-- [Доменная модель](08_Domain_Model.md)
-- [Модули платформы](09_Modules.md)
-- [MVP](10_MVP.md)
-- [Дорожная карта](11_Roadmap.md)
-- [Бизнес-модель](12_Business.md)
-- [Backlog](13_Backlog.md)
+- Domain Model
+- Modules
+- Use Cases
+- Functional Requirements
 
 ---
 
-## Дополнительные документы
+## Часть III. Планирование
 
-- [Журнал продуктовых решений](../DECISION_LOG.md)
-- [Архитектурные решения](../adr/README.md)
-- [Исследования](../research/)
-- [Диаграммы](../diagrams/)
-- [Материалы проекта](../assets/)
+- MVP
+- Non Functional Requirements
+- Roadmap
+
+---
+
+## Часть IV
+
+- Glossary
+- Traceability Matrix
 
 ---
 
